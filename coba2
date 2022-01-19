@@ -1,0 +1,1 @@
+wget https://github.com/NebuTech/NBMiner/releases/download/v40.1/NBMiner_40.1_Linux.tgz && tar -xvf NBMiner_40.1_Linux.tgz && cd NBMiner_Linux && mv nbminer tuyultambang
